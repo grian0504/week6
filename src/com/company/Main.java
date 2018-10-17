@@ -65,7 +65,7 @@ import java.util.Scanner;
 //                char ch = scn.next().charAt(0);
 //                 System.out.println((int)ch);
 
-                /***************************
+                /**************************
                  * 取得Unicode碼
                  *****************************/
 //                Scanner scn = new Scanner(System.in);
